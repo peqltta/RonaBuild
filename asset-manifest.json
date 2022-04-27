@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e99cf053.css",
-    "main.js": "/static/js/main.670a5886.js",
+    "main.js": "/static/js/main.83fd8f66.js",
     "static/media/Wide-Website-Rona2.mp4": "/static/media/Wide-Website-Rona2.c8d1a3effaecc00ddc8e.mp4",
     "static/media/AkiraExpanded.otf": "/static/media/AkiraExpanded.5198553380d9bb727554.otf",
     "static/media/logo.png": "/static/media/logo.2de8d844a8db7cde09b7.png",
     "index.html": "/index.html",
     "main.e99cf053.css.map": "/static/css/main.e99cf053.css.map",
-    "main.670a5886.js.map": "/static/js/main.670a5886.js.map"
+    "main.83fd8f66.js.map": "/static/js/main.83fd8f66.js.map"
   },
   "entrypoints": [
     "static/css/main.e99cf053.css",
-    "static/js/main.670a5886.js"
+    "static/js/main.83fd8f66.js"
   ]
 }
